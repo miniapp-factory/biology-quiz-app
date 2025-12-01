@@ -20,3 +20,279 @@
 +```
 +
 +Generate an app logo and update the app metadata title and description.
+
+# 2025-12-01 07:43:16.729819
++Here is a clean, professional, and easy-to-use **game feature structure** for your biology quiz game. You can use this as a blueprint for development, UI planning, or app store descriptions.
++
++---
++
++# 🌟 **GAME FEATURE STRUCTURE — Biology Quiz Game**
++
++## **1. Home Screen**
++
++* **Play / Start Game**
++* **Event Mode (Futuristic Event)**
++* **Daily Challenge**
++* **Leaderboard**
++* **Shop**
++* **Profile**
++* **Settings**
++
++---
++
++# 🎮 **2. Game Modes**
++
++## **A. Classic Quiz Mode**
++
++* Level-based progression
++* Multiple difficulty tiers (Easy → Hard → Expert)
++* Timer per question
++* Stars or points rewarded after each level
++
++## **B. Futuristic Event Mode**
++
++* Limited-time sci-fi themed challenges
++* Special missions & boss rounds
++* Unique futuristic topics
++* Exclusive rewards (skins, badges, BioCores)
++
++## **C. Challenge Modes**
++
++* **Time Attack** – Answer as many questions as possible in 60 seconds
++* **Survival Mode** – You lose health with every wrong answer
++* **Speed Rounds** – Quick bursts of 5–10 rapid questions
++* **Boss Quiz Battles** – Hard single-stage fights with high rewards
++
++## **D. Practice Mode**
++
++* No timer
++* Topic selection (e.g., cells, genetics, human body, ecology)
++* Detailed explanations after each question
++
++---
++
++# 🔬 **3. Quiz Features**
++
++* Multiple-choice questions
++* True/False questions
++* Image-based questions (diagrams, cells, organisms)
++* Increasing difficulty
++* Power-ups:
++
++  * **50/50**
++  * **Freeze Time**
++  * **Double Points**
++  * **Second Chance**
++
++---
++
++# 🧪 **4. Rewards System**
++
++## **A. Currencies**
++
++* **BioCores** – main currency for unlocking features
++* **XP** – increases player level
++* **Stars** – earned by completing levels perfectly
++
++## **B. Rewards**
++
++* Daily login rewards
++* Level-up bonuses
++* Event-exclusive items
++* Mystery chests
++
++---
++
++# 👤 **5. Player Profile**
++
++* Avatar customization
++* Player level & XP
++* Achievement badges
++* Quiz stats:
++
++  * Accuracy
++  * Fastest time
++  * Topics mastered
++
++---
++
++# 🏆 **6. Leaderboards**
++
++* Global ranking
++* Friends-only ranking
++* Event leaderboard
++* Weekly reset system
++
++---
++
++# 🛒 **7. Item Shop**
++
++* Power-ups
++* Skins (futuristic, sci-fi, lab-inspired)
++* Extra lives
++* Special event bundles
++* Avatar cosmetics
++
++---
++
++# ⚙️ **8. Settings**
++
++* Sound & music
++* Notifications
++* Language selection
++* Theme mode (light/dark/futuristic)
++
++---
++
++# 🌌 **9. Special Futuristic Event Add-ons**
++
++* Story-driven intro
++* Animated backgrounds
++* Hologram-style UI
++* Limited-time collectibles
++* “Future Zones” progression map
++
++---
++
++
++
++
++
+
+# 2025-12-01 07:43:16.730579
++Here is a clean, professional, and easy-to-use **game feature structure** for your biology quiz game. You can use this as a blueprint for development, UI planning, or app store descriptions.
++
++---
++
++# 🌟 **GAME FEATURE STRUCTURE — Biology Quiz Game**
++
++## **1. Home Screen**
++
++* **Play / Start Game**
++* **Event Mode (Futuristic Event)**
++* **Daily Challenge**
++* **Leaderboard**
++* **Shop**
++* **Profile**
++* **Settings**
++
++---
++
++# 🎮 **2. Game Modes**
++
++## **A. Classic Quiz Mode**
++
++* Level-based progression
++* Multiple difficulty tiers (Easy → Hard → Expert)
++* Timer per question
++* Stars or points rewarded after each level
++
++## **B. Futuristic Event Mode**
++
++* Limited-time sci-fi themed challenges
++* Special missions & boss rounds
++* Unique futuristic topics
++* Exclusive rewards (skins, badges, BioCores)
++
++## **C. Challenge Modes**
++
++* **Time Attack** – Answer as many questions as possible in 60 seconds
++* **Survival Mode** – You lose health with every wrong answer
++* **Speed Rounds** – Quick bursts of 5–10 rapid questions
++* **Boss Quiz Battles** – Hard single-stage fights with high rewards
++
++## **D. Practice Mode**
++
++* No timer
++* Topic selection (e.g., cells, genetics, human body, ecology)
++* Detailed explanations after each question
++
++---
++
++# 🔬 **3. Quiz Features**
++
++* Multiple-choice questions
++* True/False questions
++* Image-based questions (diagrams, cells, organisms)
++* Increasing difficulty
++* Power-ups:
++
++  * **50/50**
++  * **Freeze Time**
++  * **Double Points**
++  * **Second Chance**
++
++---
++
++# 🧪 **4. Rewards System**
++
++## **A. Currencies**
++
++* **BioCores** – main currency for unlocking features
++* **XP** – increases player level
++* **Stars** – earned by completing levels perfectly
++
++## **B. Rewards**
++
++* Daily login rewards
++* Level-up bonuses
++* Event-exclusive items
++* Mystery chests
++
++---
++
++# 👤 **5. Player Profile**
++
++* Avatar customization
++* Player level & XP
++* Achievement badges
++* Quiz stats:
++
++  * Accuracy
++  * Fastest time
++  * Topics mastered
++
++---
++
++# 🏆 **6. Leaderboards**
++
++* Global ranking
++* Friends-only ranking
++* Event leaderboard
++* Weekly reset system
++
++---
++
++# 🛒 **7. Item Shop**
++
++* Power-ups
++* Skins (futuristic, sci-fi, lab-inspired)
++* Extra lives
++* Special event bundles
++* Avatar cosmetics
++
++---
++
++# ⚙️ **8. Settings**
++
++* Sound & music
++* Notifications
++* Language selection
++* Theme mode (light/dark/futuristic)
++
++---
++
++# 🌌 **9. Special Futuristic Event Add-ons**
++
++* Story-driven intro
++* Animated backgrounds
++* Hologram-style UI
++* Limited-time collectibles
++* “Future Zones” progression map
++
++---
++
++
++
++
++
